@@ -25,6 +25,13 @@ ideas:
             -maybe theres a minigame where you have to click on the people who are running away and then it brings up like a drawing of an arm and you have to click to eat it all (each click theres a bite taken out of it)
                 -minigame formatted same as dating minigame
     -yum.
+    -club???? detention?????? studco!!!! 
+        -why in studco?
+            -main character overachiever, of course!
+            -derek is popular, so his friends convinced him to run and of course he got in
+            -jack is smart so everyone thought that he'd be a good match
+            -scarlett hates school but is actually somewhat smart + her mom helps run student council so thats why she got in. 
+            -angela is NOT in studco! she is real! she is different! she is lovely!
 
 characters:
     -main character
@@ -59,15 +66,15 @@ character paths:
         -when you hang out with her after school, you go to the dumplings place. you talk about school, people in school, just basic stuff before u get to deeper conversation. you admit to her that youve been having a little trouble keeping up with all the business, but youre able to handle it. she expresses her concern for you and says that if you need anything she is always there. very nice conversation! best option!
     -...derek....
         -in the end: will be a bitch about it bro like he sees you and screams and runs, doesnt even recognize you
-        -how to get on this path: maybe he has a baseball game or something like that? maybe in history he isnt paying attention and the teacher calls on him and u save him, and then after u make small talk and you ask him about his baseball and he asks if you want to watch his baseball game after school??? and then u pick his option at the end of the day!
+        -how to get on this path: maybe he has a baseball game or something like that? maybe in history he isnt paying attention and the teacher calls on him and u save him, and then after u make small talk + realize that u both got into studco + you ask him about his baseball and he asks if you want to watch his baseball game after school??? and then u pick his option at the end of the day!
         -okay so after school you go to his baseball game. you have no one to sit with but like thats okay because you get to watch him. he does really well and afterwards you congratulate him for the win and talk to him a bit. hes nice to you bc he definitely has a little crush on u but like he talks shit about this one guy on his team who he thinks is weird. its a little off to you but someone likes you so its ok to you. you get his number + go home.
     -mmmm cutie little guy jack (question mark name?)
         -in the end: he still runs away and stuff but first he recognizes you and hesitates
-        -how to get on this path: similar to the others, but it will be 4th period math (bc he's a nerd). you get paired up in a project and you talk to him a bit, but you realize that you can't finish it in class and you arent really confident in ur abilities, so he asks if you want to go to a cafe to work on it after school. then u pick his option at end of day.
-        -yay you meet him at the cafe! you talk about...
+        -how to get on this path: similar to the others, but it will be 4th period math (bc he's a nerd). you get paired up in a project and you talk to him a bit, but you realize that you can't finish it in class and you arent really confident in ur abilities, so he asks if you want to go to a cafe to work on it after school. also u guys realize that you are both gonna be in student council. then u pick his option at end of day. 
+        -yay you meet him at the cafe! you talk a lot about how peaceful the cafe is and how easy it is to get your work done there. you mention briefly about how hard it is for other people to understand how hard it actually is to get good grades，but he looks at you strangly and says that its never been too hard for him （bro does not understand）。its awkard for you but he seems to like you a lot。 you get his number。
     -scarlet yay!
         -in the end: backs away slowly in terror, like "this isnt you!"
-        -how to get on this path: youre in your free period (6th) and youre tired of everyone around you bc theyre loud and annoying and dont talk to you, so you go to the nearby convenience store. you find scarlet there and she's skipping (can you tell im making all the characters stereotypical bc i feel like it makes them feel more empty so lowkey why main character goes insane bc she has no one REAL with her besides her best friend). you have a short conversation abt annoying ppl in school and annoying school in general, then she asks if u wanna go to the vinyl store with her later (wow cool!). then at end of day u pick her option.
+        -how to get on this path: youre in your free period (6th) and youre tired of everyone around you bc theyre loud and annoying and dont talk to you, so you go to the nearby convenience store. you find scarlet there and she's skipping (can you tell im making all the characters stereotypical bc i feel like it makes them feel more empty so lowkey why main character goes insane bc she has no one REAL with her besides her best friend). you have a short conversation abt annoying ppl in school and annoying school in general + also realize that u r both gonna be in studco, then she asks if u wanna go to the vinyl store with her later (wow cool!). then at end of day u pick her option.
         -yay yay you meet her at the vinyl store very cool! you look around and discuss and realize that you have similar music tastes (make up a fake band name called the baba blasters or smth). again you talk about how everyone is annoying and that people think you guys r both weird. yeah. you get her number thumbs up emoji.
     -no path... better off alone :sleeping_emoji:
         -in the end: just eats everyone because tired of everyone. maybe people are like faceless or smth? bc you just distanced from everyone, didnt get to really know and bond with anyone after you started studying + working sm.
@@ -76,7 +83,7 @@ character paths:
 
 backgrounds + other images:
     -bedroom (general, with bed + dresser + window in sight stuff like that)
-    -sitting down at desk in bedroom
+    -sitting down at desk in bedroom 
     -school hallway
     -school classroom (history)
     -school classroom (math)
@@ -87,7 +94,7 @@ backgrounds + other images:
     -vinyl store
     -cafe
     -dumpling restaurant
-    -if we do club, classroom where the club is?
+    -studco room?
     -image: each different mirror image.
         -normal
         -tired
@@ -97,5 +104,3 @@ backgrounds + other images:
         -more!
     -image: look down at peeling hands, youre a monster wow!
 
-
-        

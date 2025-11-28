@@ -3,7 +3,11 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Eileen")
+define y = Character("You")
+define a = Character("Angela")
+define d = Character("Derek") 
+define j = Character("Jack")
+define s = Character("Scarlett")
 
 
 # The game starts here.
@@ -14,20 +18,46 @@ label start:
     # add a file (named either "bg room.png" or "bg room.jpg") to the
     # images directory to show it.
 
-    scene bg room
+    scene black
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
+    "insert deep quote"
 
-    show eileen happy
+    scene bg bedroom 1
+
+    
+    show you neutral
 
     # These display lines of dialogue.
 
-    e "hello."
+    "you wake up, rubbing the sleep out of your eyes."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    "another day of school."
 
-    # This ends the game.
+    "tomorrow is your first day as the student council secretary."
+
+    "are you ready?"
+
+    menu:
+        "yes":
+            "you have been ready for this day since the moment you entered the high school."
+            "you have always worked for something greater than yourself, haven't you?"
+        "no":
+            "you have worked for this day for years."
+            "how can you ever feel fully ready to take on these new responsibilities?"
+    
+    "time to get ready."
+
+    menu: 
+        "go to bathroom"
+
+    scene bg mirror 1
+
+    "you look at yourself in the mirror."
+
+    "..."
+
+    "you aren't looking too bad today, huh?"
+
+
 
     return
