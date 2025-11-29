@@ -83,18 +83,24 @@ character paths:
 
 backgrounds + other images:
     -bedroom (general, with bed + dresser + window in sight stuff like that)
-    -sitting down at desk in bedroom 
-    -school hallway
-    -school classroom (history)
-    -school classroom (math)
-    -school classroom (general)
-    -school classroom (english)
-    -convenience store
-    -baseball field
-    -vinyl store
-    -cafe
-    -dumpling restaurant
-    -studco room?
+        -day + night
+        -weird sheen
+    -sitting down at desk in bedroom (night)
+    -school hallway (day)
+        -weird sheen
+    -school classroom (history) (day)
+    -school classroom (math) (day)
+    -school classroom (general) (day)
+    -school classroom (english) (day)
+    -convenience store (day)
+    -baseball field (day, sunny)
+    -vinyl store (day)
+    -cafe (day)
+    -dumpling restaurant (day)
+    -studco room? (day)
+        -weird sheen
+    -main character's kitchen (day, but not super bright bc morning)
+        -weird sheen
     -image: each different mirror image.
         -normal
         -tired
