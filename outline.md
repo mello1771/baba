@@ -68,14 +68,17 @@ character paths:
         -in the end: will be a bitch about it bro like he sees you and screams and runs, doesnt even recognize you
         -how to get on this path: maybe he has a baseball game or something like that? maybe in history he isnt paying attention and the teacher calls on him and u save him, and then after u make small talk + realize that u both got into studco + you ask him about his baseball and he asks if you want to watch his baseball game after school??? and then u pick his option at the end of the day!
         -okay so after school you go to his baseball game. you have no one to sit with but like thats okay because you get to watch him. he does really well and afterwards you congratulate him for the win and talk to him a bit. hes nice to you bc he definitely has a little crush on u but like he talks shit about this one guy on his team who he thinks is weird. its a little off to you but someone likes you so its ok to you. you get his number + go home.
+        -his role in studco: president (boooo, only bc popular)
     -mmmm cutie little guy jack (question mark name?)
         -in the end: he still runs away and stuff but first he recognizes you and hesitates
         -how to get on this path: similar to the others, but it will be 4th period math (bc he's a nerd). you get paired up in a project and you talk to him a bit, but you realize that you can't finish it in class and you arent really confident in ur abilities, so he asks if you want to go to a cafe to work on it after school. also u guys realize that you are both gonna be in student council. then u pick his option at end of day. 
         -yay you meet him at the cafe! you talk a lot about how peaceful the cafe is and how easy it is to get your work done there. you mention briefly about how hard it is for other people to understand how hard it actually is to get good grades，but he looks at you strangly and says that its never been too hard for him （bro does not understand）。its awkard for you but he seems to like you a lot。 you get his number。
+        -his role in studco: treasurer (nerd, math)
     -scarlet yay!
         -in the end: backs away slowly in terror, like "this isnt you!"
         -how to get on this path: youre in your free period (6th) and youre tired of everyone around you bc theyre loud and annoying and dont talk to you, so you go to the nearby convenience store. you find scarlet there and she's skipping (can you tell im making all the characters stereotypical bc i feel like it makes them feel more empty so lowkey why main character goes insane bc she has no one REAL with her besides her best friend). you have a short conversation abt annoying ppl in school and annoying school in general + also realize that u r both gonna be in studco, then she asks if u wanna go to the vinyl store with her later (wow cool!). then at end of day u pick her option.
         -yay yay you meet her at the vinyl store very cool! you look around and discuss and realize that you have similar music tastes (make up a fake band name called the baba blasters or smth). again you talk about how everyone is annoying and that people think you guys r both weird. yeah. you get her number thumbs up emoji.
+        -her role in studco: vice prez (only bc of mom...)
     -no path... better off alone :sleeping_emoji:
         -in the end: just eats everyone because tired of everyone. maybe people are like faceless or smth? bc you just distanced from everyone, didnt get to really know and bond with anyone after you started studying + working sm.
         -how to get on this path: blow them all off! 
@@ -109,4 +112,5 @@ backgrounds + other images:
         -skin peeling + hair falling out
         -more!
     -image: look down at peeling hands, youre a monster wow!
+    
 

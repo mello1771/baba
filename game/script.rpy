@@ -12,22 +12,9 @@ define s = Character("Scarlett")
 
 #functions
 
-init python:
-    def increment():
-        for i in range(0,3):
-            count = 0
-            if count == 0:
-                idle image
-                $ count++
-            elif count == 1:
-                idle image
-                $ count++
-            elif count == 2:
-                idle image
-                $ count++
-            else:
-                action Hide("eating")
 
+
+#screens
 
 
 # The game starts here.
@@ -77,22 +64,48 @@ label start:
         "yes":
             "you decide to take the extra minute to eat breakfast."
             window hide
-            screen eating():
-                imagebutton:
-                    xalign 0.5
-                    yalign 0.5
-                    action Function(increment)
                     
-            show screen eating
-                    
+            
 
+            screen eat1():
+                modal True
+                imagebutton:
+                    align (0.5, 0.5)
+
+                    idle "test1.png"
+
+                    action Return()
+            call screen eat1
+
+            screen eat2():
+                modal True
+                imagebutton:
+                    align (0.5, 0.5) 
+
+                    idle "test2.webp"
+
+                    action Return() 
+            call screen eat2
+
+            screen eat3(): 
+                modal True
+                imagebutton:
+                    align (0.5, 0.5)
+
+                    idle "test3.webp"
                     
+                    action Return()
+            call screen eat3
+            pause 1.0
+
+            "you finished your breakfast."
+            "time to go the bathroom."
 
 
         "no":
             "today, you think you're too good for a nice breakfast."
             "you decide to skip. you have to make as much time as you can for the other stuff, right?"
-            
+            "you have to go to the bathroom."
 
     scene bg mirror 1
     with fade
@@ -107,6 +120,9 @@ label start:
 
     scene bg hallway 1 
     with fade 
+
+    "you arrive at the school."
+
 
 
 
